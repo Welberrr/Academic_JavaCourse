@@ -2,7 +2,7 @@ package javaCourseVetores;
 
 import java.util.Scanner;
 
-public class JavaCourseEx2 {
+public class VetoresEx2 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
