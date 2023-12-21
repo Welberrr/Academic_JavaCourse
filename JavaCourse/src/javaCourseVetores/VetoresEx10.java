@@ -6,7 +6,7 @@ public class VetoresEx10 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("----- VETORES EXERCÍCIO 9 - MAIS VELHO -----");
+		System.out.println("----- VETORES EXERCÍCIO 10 - APROVADOS -----");
 		
 		int n;
 	    double media;
